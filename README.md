@@ -1,5 +1,5 @@
 # How to create and use `.gitignore` file
-## 1. Create a file and name it .gitignore
+## 1. Create a file and name it `.gitignore`
 ```bash
 touch .gitignore
 ```
