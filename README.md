@@ -9,5 +9,5 @@ $ touch .gitignore
 ```bash
 $ vi .gitignore
 ```
-## 3. Now you use `git status` to verfiy that the Git doesn't track your files in `.gitignore`
+## 3. Now you use `git status` to verfiy that the Git doesn't track your files in `.gitignore` file
 
