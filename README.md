@@ -3,7 +3,7 @@
 ```bash
 touch .gitignore
 ```
-##2. Open the created file with an editor and add files and directories that you don't want to push them to Git
+## 2. Open the created file with an editor and add files and directories that you don't want to push them to Git
 ### you can add vendor directories or log files to gitignore file.
 ```bash
 vi .gitignore
