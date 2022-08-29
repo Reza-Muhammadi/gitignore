@@ -1,6 +1,6 @@
 # How to create and use `.gitignore` file
 ## 1. Create a file and name it `.gitignore`
-### This file should be in the directory that Git tracks it.
+### This file should be in the directory that the Git tracks it.
 ```bash
 $ touch .gitignore
 ```
